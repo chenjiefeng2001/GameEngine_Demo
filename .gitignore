@@ -3,3 +3,4 @@
 #directory
 build/
 .cache/
+.vscode/
